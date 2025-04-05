@@ -1,1 +1,1 @@
-pytorch/pytorch:2.1.1-cuda12.1-cudnn8-runtime
+python:3.10.16
